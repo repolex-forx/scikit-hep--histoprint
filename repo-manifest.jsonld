@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/scikit-hep/histoprint/commit/1539fb05c56f2589cac91f1aca2e95f9628faf00",
       "git:hexsha": "1539fb05c56f2589cac91f1aca2e95f9628faf00",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/scikit-hep/histoprint/commit/bb1deb39e4d39a353a96d468119dd1bdf96e844f",
